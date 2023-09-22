@@ -14,6 +14,6 @@ public class Summation {
     }
     public static void main(String[] args) {
 
-        System.out.println(summation(8));  // Output - 36
+        System.out.println(summation(36));  // Output - 36
     }
 }
