@@ -16,6 +16,7 @@ public class ArrayPow {
         for (int n: sides) {
             System.out.println("The area is: ");
             System.out.println(n*n);
+
         }
     }
 }
