@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ArrayPow {
     public static void main(String[] args) {
-        System.out.println("Please enter the number of elementes: ");
+        System.out.println("Please enter the number of elements: ");
         Scanner scanner = new Scanner(System.in);
         int length = scanner.nextInt();
         int[] sides =  new int[length];
@@ -16,7 +16,6 @@ public class ArrayPow {
         for (int n: sides) {
             System.out.println("The area is: ");
             System.out.println(n*n);
-
         }
     }
 }
