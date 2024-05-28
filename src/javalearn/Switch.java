@@ -25,9 +25,19 @@ public class Switch {
             case 7:
                 System.out.println("Sunday");
                 break;
-            default:
+            default: // The default case can be used for performing a task when none of the cases is matched.
                 System.out.println("There no match.");
         }
     }
 
 }
+
+/*
+* int day = 2;
+        String dayType  = switch(day) {
+            case 1, 2, 3, 4, 5 -> "Working day";
+            case 6, 7 -> "Weekend";
+            default -> "Invalid day";
+            };
+        System.out.println(dayType);
+* */
