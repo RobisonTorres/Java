@@ -3,22 +3,27 @@ package javalearn;
 public class Methods {
 
     static void myMethod() {
+
         System.out.println("I just got executed!");  // A message is print.
     }
 
     static void myName(String fname) {
+
         System.out.println("hello " + fname);  // A message is print with a name.
     }
 
     static void evenOrOdd(int num) {
+
         System.out.println((num % 2 == 0) ? "Even": "Odd");
     }
 
     static void nameAge(String name, int age) {
+
         System.out.println(name + " is " + age);  // Two parameters.
     }
 
     static int sumNumbers(int num) {
+
         return  num + 5;  // Without 'void' - return a value.
     }
 
@@ -36,6 +41,7 @@ public class Methods {
         int z = sumNumbers1(5,7);
         System.out.println(z);  // Output - 12
     }
+
 }
 
 /* The void keyword, used in the examples above,

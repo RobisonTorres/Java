@@ -25,3 +25,10 @@ public class Constructor {
         // Output - I have a Gto and its year is 2000.
     }
 }
+
+/*
+You can think of constructors as methods that will set up your class by default,
+so you don’t need to repeat the same code every time.
+ */
+
+

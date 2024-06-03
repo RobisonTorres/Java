@@ -1,6 +1,6 @@
 package javalearn;
 
-public class MainClass {
+public class    MainClass {
 
     // Class Attributes.
     int x = 5;
