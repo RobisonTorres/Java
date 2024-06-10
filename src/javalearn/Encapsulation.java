@@ -14,6 +14,7 @@ public class Encapsulation {
     }
     // Setter
     public void setName(String newName) {
+
         this.name = newName;
     }
 }
