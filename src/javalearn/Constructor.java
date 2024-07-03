@@ -9,9 +9,9 @@ public class Constructor {
     // the class name, and it cannot have a return type (like void).
     public Constructor(int y, int year, String name) {
 
-        x = y;
-        modelYear = year;
-        modelName = name;
+        this.x = y;
+        this.modelYear = year;
+        this.modelName = name;
 
     // Constructors can also take parameters,
     // which is used to initialize attributes.
