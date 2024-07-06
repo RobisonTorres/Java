@@ -1,4 +1,4 @@
-package JavaFundamentals;
+package JavaFundamentalsOOP;
 
 // The 'public' modifier allows this class to be accessed from other classes.
 public class MyClass {

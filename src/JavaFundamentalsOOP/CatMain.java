@@ -1,4 +1,4 @@
-package JavaFundamentals;
+package JavaFundamentalsOOP;
 
 // To use the class, you would create an instance of Cat using the new keyword
 public class CatMain {

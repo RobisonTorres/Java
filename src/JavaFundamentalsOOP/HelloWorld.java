@@ -1,4 +1,4 @@
-package JavaFundamentals;
+package JavaFundamentalsOOP;
 
 public class HelloWorld {
 
