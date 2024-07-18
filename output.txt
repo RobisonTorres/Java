@@ -1,0 +1,1 @@
+FileWriter is a class in Java used for writing character-based data to a file.
